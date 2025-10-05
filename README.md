@@ -1,7 +1,6 @@
 # EduTrack Lite
 
-EduTrack Lite is a simple Learning Management System (LMS) API built with **FastAPI**.  
-It allows users to manage **Users**, **Courses**, and **Enrollments** in a lightweight, testable environment.
+cc
 
 ---
 
